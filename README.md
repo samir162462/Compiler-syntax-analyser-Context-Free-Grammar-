@@ -1,0 +1,3 @@
+# Compiler-syntax-analyser-Context-Free-Grammar-
+The program algorithm works in recursive descent that first will split every LHS into functions and this function will has their own grammar RHS side part. and will go using loop in every point, if this point match the terminal will go into it and will check if the grammar true or not,  if not it will return feedback what is expected if true it will continue. And so until it will reach the end of the tokens list.  The program looks like. For Recursive Descent Parser, we are going to write one program for every variable. 
+![image](https://user-images.githubusercontent.com/36963951/169839814-8c186eed-515f-4dfe-b92b-35ee2eff1b05.png)
